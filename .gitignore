@@ -52,3 +52,6 @@ xcode/DerivedData
 
 #Visual code unwanted
 .vscode
+
+#IntelliJ IDEA
+.idea
